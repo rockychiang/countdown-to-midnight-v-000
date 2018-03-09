@@ -8,9 +8,6 @@ def countdown(x)
   end
 end
 
-  hny = "happy new year!".upcase
-  puts hny
-
 def countdown_with_sleep(x)
   sleep x
 end
