@@ -6,9 +6,7 @@ def countdown(x)
     sleep 1
     x -= 1
   end
-  hny = "happy new year!".upcase
-  puts hny
-  hny
+
 end
 
 def countdown_with_sleep(x)
