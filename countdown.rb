@@ -2,7 +2,7 @@
 
 def countdown(x=10)
   while x > 0 
-    puts "#{x} SECOND(S)!"
+    puts "#{x} second(s)!".upcase
     sleep 1
     x -= 1
   end
