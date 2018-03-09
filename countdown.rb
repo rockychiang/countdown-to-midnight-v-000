@@ -11,3 +11,5 @@ def countdown(x=10)
   puts hny
   hny
 end
+
+countdown(10)
